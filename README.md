@@ -6,6 +6,7 @@ Key Steps in the Project
 
 1.🔍 Problem Identification:
 •Rossmann’s challenge was to optimize inventory management by accurately forecasting sales, which would reduce excess stock and minimize stock shortages across its stores.
+
 2.🛠️ Feature Engineering:
 •We introduced new features such as lagged sales data, rolling averages, and interaction terms between promotions and holidays to enhance the prediction accuracy.
 •Key Features Added:
