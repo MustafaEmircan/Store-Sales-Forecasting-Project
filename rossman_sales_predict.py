@@ -1064,37 +1064,6 @@ print(f"Yeni dosya '{output_file_path}' olarak kaydedildi.")
 
 
 
-
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-# Model performans metrikleri
-data = {
-    'Model': ['LGBM','ARIMA', 'SARIMAX', ],
-    'MAE': [89.41,  2200.0, 1833.21],
-    'SMAPE': [1.54, 76.82, 32.29]
-}
-
-# DataFrame oluşturma
-df = pd.DataFrame(data)
-
-# Tabloyu görüntüleme
-print(df)
-
-# Görseli oluşturma
-plt.figure(figsize=(10, 5))
-plt.subplot(1, 2, 1)
-sns.barplot(x='Model', y='MAE', data=df, palette='viridis')
-plt.title('Model MAE Comparison')
-plt.subplot(1, 2, 2)
-sns.barplot(x='Model', y='SMAPE', data=df, palette='viridis')
-plt.title('Model SMAPE Comparison')
-plt.tight_layout()
-plt.show()
-
-
-
 import pandas as pd
 
 # Creating the dataframe with the given data
