@@ -23,6 +23,7 @@ Key Steps in the Project
  📊 Exponential Moving Averages: For a more responsive trend analysis.
 
 3.🤖 Modeling:
+
 •We experimented with several models, including ARIMA, SARIMAX, and LGBM. The LGBM model outperformed others, providing the most accurate forecasts with its ability to learn complex relationships and trends within the data.
 
 4.📊 Analysis and Results:
