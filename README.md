@@ -9,6 +9,7 @@ Key Steps in the Project
 2.🛠️ Feature Engineering:
 •We introduced new features such as lagged sales data, rolling averages, and interaction terms between promotions and holidays to enhance the prediction accuracy.
 •Key Features Added:
+
  📅 Temporal Variables: Day, Month, Year, IsWeekend, etc.
  ⏳ Lagged Features: Sales values lagged by 1, 7, and 30 days.
  📈 Rolling Features: 7 and 30-day rolling means, sums, and standard deviations of sales.
