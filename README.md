@@ -11,8 +11,11 @@ Key Steps in the Project
 •Key Features Added:
 
  📅 Temporal Variables: Day, Month, Year, IsWeekend, etc.
+ 
  ⏳ Lagged Features: Sales values lagged by 1, 7, and 30 days.
+ 
  📈 Rolling Features: 7 and 30-day rolling means, sums, and standard deviations of sales.
+ 
  📊 Exponential Moving Averages: For a more responsive trend analysis.
 
 3.🤖 Modeling:
