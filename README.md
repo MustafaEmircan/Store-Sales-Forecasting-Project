@@ -1,4 +1,4 @@
-Store Sales Forecasting Project: A Deep Dive into Retail Analytics
+# Store Sales Forecasting Project: A Deep Dive into Retail Analytics
 
 I'm thrilled to share the insights and outcomes of our recent project, focused on forecasting store sales for Rossmann, a major retail chain with hundreds of branches. Our objective was to develop an accurate sales forecasting model that could optimize inventory management and enhance customer satisfaction across all stores.
 
